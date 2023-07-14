@@ -1,0 +1,8 @@
+D:\Simplilearn\Day-5\Assignment\ConsoleApp5JArray\ConsoleApp5JArray\bin\Debug\ConsoleApp5JArray.exe.config
+D:\Simplilearn\Day-5\Assignment\ConsoleApp5JArray\ConsoleApp5JArray\bin\Debug\ConsoleApp5JArray.exe
+D:\Simplilearn\Day-5\Assignment\ConsoleApp5JArray\ConsoleApp5JArray\bin\Debug\ConsoleApp5JArray.pdb
+D:\Simplilearn\Day-5\Assignment\ConsoleApp5JArray\ConsoleApp5JArray\obj\Debug\ConsoleApp5JArray.csproj.AssemblyReference.cache
+D:\Simplilearn\Day-5\Assignment\ConsoleApp5JArray\ConsoleApp5JArray\obj\Debug\ConsoleApp5JArray.csproj.SuggestedBindingRedirects.cache
+D:\Simplilearn\Day-5\Assignment\ConsoleApp5JArray\ConsoleApp5JArray\obj\Debug\ConsoleApp5JArray.csproj.CoreCompileInputs.cache
+D:\Simplilearn\Day-5\Assignment\ConsoleApp5JArray\ConsoleApp5JArray\obj\Debug\ConsoleApp5JArray.exe
+D:\Simplilearn\Day-5\Assignment\ConsoleApp5JArray\ConsoleApp5JArray\obj\Debug\ConsoleApp5JArray.pdb
